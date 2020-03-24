@@ -22,4 +22,4 @@ I have written all these algorithms, and their correctness is verified by the do
 
 
 # FURTHER INITIATIVES:
-To expand the number of algorithms implemented and make them freely accessible on github with simple search. Because the algorithms are written by college students and not so experienced programmers, if correctness is ensured, it can be useful to newbies and people needing an easy to understand reference.
+To expand the number of algorithms implemented and make them freely accessible on github with simple search. Because the algorithms are written by college students and not so experienced programmers,the code uses basic concepts and if correctness is ensured, it can be useful to newbies and people needing an easy to understand reference.

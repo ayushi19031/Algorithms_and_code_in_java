@@ -1,4 +1,6 @@
 import java.util.*;
+// Implementation of merge sort in java.
+// function take an array as an input and returns after sorting it using merge sort.
 public class Xyz_12 {
     public static void swap(int[] array, int a, int b){
         int temp = array[a];

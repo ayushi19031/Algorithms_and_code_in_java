@@ -3,22 +3,24 @@ I have written all these algorithms, and their correctness is verified by the do
 
 # LIST OF ALGORITHMS IMPLEMENTED
 
-1. BRUTE FORCE APPROACH  
-2. RECURSION with special emphasis on backtracking and grids  
-3. BINARY SEARCH in arrays
-4. SINGLY LINKED LISTS
-5. DOUBLY LINKED LISTS
-6. CIRCULAR LINKED LISTS
-7. STACKS - USING SINGLY LINKED LISTS AND ARRAYS
-8. QUEUES - USING SINGLY LINKED LISTS
-9. BINARY TREES AND BINARY SEARCH TREES
-10. AVL TREES
+ - BRUTE FORCE APPROACH  
+ - RECURSION with special emphasis on backtracking and grids  
+ - BINARY SEARCH in arrays
+ - SINGLY LINKED LISTS
+ - DOUBLY LINKED LISTS
+ - CIRCULAR LINKED LISTS
+ - STACKS - USING SINGLY LINKED LISTS AND ARRAYS
+ - QUEUES - USING SINGLY LINKED LISTS
+ - BINARY TREES AND BINARY SEARCH TREES
+ - AVL TREES
 
 # BASIC CONCEPTS USED 
 
-1. Types of data in java and their range
-2. Classes and objects in java
-3. Collections in java
+ - Types of data in java and their range
+ - Classes and objects in java
+ - Collections in java
+# HOW IS THE PROGRAM RUN  
+It can be run using any java ide. For example, it can be run on eclipse ide for java.
 
 
 # FURTHER INITIATIVES:

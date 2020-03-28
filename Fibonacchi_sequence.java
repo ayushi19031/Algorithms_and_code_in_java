@@ -1,5 +1,7 @@
 import java.util.*;
-
+//Fibonacchi series modification
+//input: a number
+//output: a number
 public class dsa_l2_A{
     public static int fun(int g){
         if (g == 0){return 0;}

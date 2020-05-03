@@ -13,6 +13,7 @@ I have written all these algorithms, and their correctness is verified by the do
  - QUEUES - USING SINGLY LINKED LISTS
  - BINARY TREES AND BINARY SEARCH TREES
  - AVL TREES
+ - GRAPHS: BFS- shortest distance, bipartite, traversal of bfs tree
 
 # BASIC CONCEPTS USED 
 

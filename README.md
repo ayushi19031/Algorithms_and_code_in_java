@@ -14,7 +14,7 @@ I have written all these algorithms, and their correctness is verified by the do
  - BINARY TREES AND BINARY SEARCH TREES
  - AVL TREES
  - GRAPHS: BFS- shortest distance, bipartite, traversal of bfs tree
-
+ - HUFFMAN ENCODING AND PRIORITY QUEUES 
 # BASIC CONCEPTS USED 
 
  - Types of data in java and their range
